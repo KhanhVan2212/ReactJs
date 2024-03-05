@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "iPhone 15 Pro Max 256GB",
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/10/30/638342502751589917_ip-15-pro-max-dd-bh-2-nam.jpg",
+      "price": "20",
+      "category": "12",
+      "desc": "An apple mobile which is nothing like apple"
+    },
+    {
+      "id": "3",
+      "name": "Iphone",
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/11/30/638369332268397830_oppo-a58-dd-doimoi.jpg",
+      "price": 200,
+      "category": 1,
+      "desc": "An apple mobile which is nothing like apple"
+    },
+    {
+      "id": "4",
+      "name": "Iphone12",
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/1/31/638107858631679725_iphone-14-pro-max-dd-1.jpg",
+      "price": 200,
+      "category": 1,
+      "desc": "An apple mobile which is nothing like apple"
+    },
+    {
+      "id": "1fc4",
+      "name": "OPPO A38 NEW",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+      "price": "30000",
+      "category": "12222",
+      "desc": "OPPO NEW"
+    },
+    {
+      "id": "5a5a",
+      "name": "Samsung Galaxy A24 8GB 22",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/313154/oppo-a38-gold-thumb-600x600.jpg",
+      "price": "1500",
+      "category": "123",
+      "desc": "Samsung Galaxy A24 8GB NEWWW"
+    }
+  ],
+  "users": [
+    {
+      "email": "vannkph22621@fpt.edu.vn",
+      "password": "$2a$10$RQpZX3bgsrTtxEzIgCgOL.KyeJvcdtgl03uEEwhDs/oASvPUyAjbG",
+      "id": 1
+    },
+    {
+      "email": "nguyenkhanhvan221202@gmail.com",
+      "password": "$2a$10$6KYLG2.n17MmO/Mf0zX1q.eN37NrzyoqXV9hGovx5svaKJpxhidna",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Điện thoại"
+    },
+    {
+      "id": "2",
+      "name": "Laptop"
+    },
+    {
+      "id": "3",
+      "name": "Phụ kiện"
+    }
+  ]
+}
